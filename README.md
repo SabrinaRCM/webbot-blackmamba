@@ -18,5 +18,26 @@ O projeto foi o desenvolvimento de um Web bot que envia através do telegram inf
     **Email / Telegram-bot** - envio de alertas e notificações;
 
 ### Contribuições individuais/pessoais
+* Bibliotecas do Python: Pandas e Matplotlib
+
+```
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('arq1.csv', sep=';')
+
+plt.plot(df['Hora'], df['Valor_total'])
+plt.show()
+```
+```
+import pandas as pd
+      
+dt = pd.read_csv('arq1.csv')
+
+dt.columns
+print(dt.valor_total)
+```
+
+* Front-End
 
 ### Aprendizados Efetivos
