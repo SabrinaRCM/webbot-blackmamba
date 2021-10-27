@@ -4,12 +4,16 @@
 O projeto foi o desenvolvimento de um Web bot que envia através do telegram informações de ações da bolsa de valores de uma empresa escolhida pelo usuário. As informações incluem histórico da ação através de gráficos.
 
 ### Tecnologias adotadas na solução
+
+A linguagem python foi escolhida como principal para o nosso projeto devido ter uma curva de aprendizado relativamente menor comparada as outras linguagens do mercado, além de possuir bibliotecas cruciais para a construção do projeto que incluem Beautiful Soup para raspagem de dados, Pandas para leitura e processamento dos dados, Matplotlib para gerar um gráfico, PyMySQL para auxiliar a conexão com o banco de dados, Selenium para realizar a navegação na web via webdriver do Google Chrome, Email para envio de emails e Telegram-bot para envio de mensagens no telegram. Para a construção do front end foi escolhido o framework do Python chamado Django, assim como HTML, CSS, JavaScript e Bootstrap que é uma coleção de estruturas visuais usando os três últimos itens citados anteriormente), posteriormente substituídos pelo PowerBI devido sua facilidade em implementar gráficos na web que desejávamos no projeto. Como armazenamento de dados foi escolhido o banco de dados MySQL.
+
 * Python 3.7 - Linguagem principal;
 * Zen of Python - boas práticas para o Projeto;
 * PyCharm e/ou Visual Studio Code - IDE's;
 * Django, Javascript, HTML5, CSS,  Bootstrap - Front End WEB;
 * MySQL - Banco de Dados;
 * Conceitos do SCRUM - Norteador do Projeto.
+* PowerBI.
 * Principais Bibliotecas Python:  
     **PyMySQL** - interação com nosso Banco de Dados;  
     **Selenium** - navegação pela Web através do WebDriver do Google Chrome;  
@@ -18,6 +22,9 @@ O projeto foi o desenvolvimento de um Web bot que envia através do telegram inf
     **Email / Telegram-bot** - envio de alertas e notificações;
 
 ### Contribuições individuais/pessoais
+
+Como contribuição individual, fui responsável por implementar as bibliotecas Pandas e Matplotlib ao projeto, além da construção do front end e integração ao Django que mais tarde foi alterado para o PowerBI devido sua facilidade para implementar gráficos na web e ferramentas fundamentais para manipulação de tais. Abaixo comentarei um pouco mais a respeito das bibliotecas e destacarei alguns códigos implementados ao projeto com anotações explicativas diretamente no mesmo.
+
 * Bibliotecas do Python: Pandas e Matplotlib
 > Esse código trata da importação da biblioteca Pandas para que seja feita a leitura do nosso arquivo .csv
 ##### text.py 
