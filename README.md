@@ -13,7 +13,7 @@ A linguagem python foi escolhida como principal para o nosso projeto devido ter 
 * Django, Javascript, HTML5, CSS,  Bootstrap - Front End WEB;
 * MySQL - Banco de Dados;
 * Conceitos do SCRUM - Norteador do Projeto.
-* PowerBI.
+* PowerBI - Usado posteriormente para exibição dos dashboards. 
 * Principais Bibliotecas Python:  
     **PyMySQL** - interação com nosso Banco de Dados;  
     **Selenium** - navegação pela Web através do WebDriver do Google Chrome;  
@@ -38,7 +38,7 @@ dt.columns
 # Exibe na tela a coluna selecionada
 print(dt.valor_total)
 ```
-> Esse código integra a biblioteca Pandas que está realizando a leitura do arquivo com a Matplotlib que está criando o gráfico para o usuário
+> Esse código integra a biblioteca Pandas que está realizando a leitura do arquivo com a Matplotlib que está criando o gráfico para o usuário enviados via Telegram
 ##### graficos.py
 ```python
 import pandas as pd
@@ -246,5 +246,10 @@ plt.show()
 ```
 <img src="dashboardhtml.png"/>
 
-> Outras páginas foram adicionadas mas somente com o template porém decidimos seguir usando PowerBI
+> Outras páginas foram adicionadas mas somente com o template pois decidimos seguir o projeto usando PowerBI e abandonar os dashboards em HTML, CSS e JavaScript.
+
 ### Aprendizados Efetivos
+
+Não tinha tido muito contato com programação anteriormente, então eu aprendi bastante. Como resultado consigo iniciar um projeto em Python, incluir bibliotecas, utilizar o Django, integrando templates HTML, CSS e JavaScript. Pude melhorar minhas habilidades na criação de interface web. Aprendi como enviar email e usar o bot do telegram. Nesse projeto nosso Scrum Master e Product Owner eram alunos do sexto semestre, nós fomos conduzidos por eles aos conceitos de Scrum e PO onde realizavamos atividades semanais, além de reuniões diarias para discutir o andamento do projeto.
+
+OBS.: Eu entrei no projeto depois de 3 semanas que havia iniciado pois estava na lista de espera da Fatec e com desistencia fui chamada.
