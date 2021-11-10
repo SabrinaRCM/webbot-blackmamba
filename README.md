@@ -252,4 +252,16 @@ plt.show()
 
 Não tinha tido muito contato com programação anteriormente, então eu aprendi bastante. Como resultado consigo iniciar um projeto em Python, incluir bibliotecas, utilizar o Django, integrando templates HTML, CSS e JavaScript. Pude melhorar minhas habilidades na criação de interface web. Aprendi como enviar email e usar o bot do telegram. Nesse projeto nosso Scrum Master e Product Owner eram alunos do sexto semestre, nós fomos conduzidos por eles aos conceitos de Scrum e PO onde realizavamos atividades semanais, além de reuniões diarias para discutir o andamento do projeto.
 
+* **Python** 
+   <p>A linguagem introduzida no primeiro semestre foi o Python, eu havia tido breve contato com essa linguagem em um evento voltado a encorajar mulheres que querem entrar na área de tecnologia ter um primeiro contato com programação. Neste projeto eu pude desenvolver habilidades como iniciar um projeto em python, incluir bibliotecas e a construção da linguagem em si. A principal biblioteca aprendida foi o Django.</p>
+
+* **Django** 
+   <p>Esta biblioteca foi utilizada no mesmo evento citado acima e nesse projeto eu tive a oportunidade de ter contato com a estrutura de um projeto web em Django, bem como, integrar templates HTML e conteúdo de CSS e JS.</p>
+    
+* **Conceitos de Scrum** 
+   <p>Tive contato com conceitos de Scrum tendo a oportunidade de aplicar na prática e desenvolver as habilidades para ter sucesso em futuros projetos em empresas, acadêmicas e pessoais.</p> 
+   
+* **Product Owner** 
+   <p>Adquiri conhecimento das responsabilidades de um PO dentro de um projeto e a importancia do mesmo.</p>
+
 OBS.: Eu entrei no projeto depois de 3 semanas que havia iniciado pois estava na lista de espera da Fatec e com desistencia fui chamada.
